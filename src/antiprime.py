@@ -26,9 +26,9 @@ def main(x):
 			k = k + 1
 		j = j - 1
 	if e >= y:
-        	return("not antiprime")
+        	return("not anti-prime")
 	else:
-        	return("antiprime")
+        	return("anti-prime")
 
 	## THE LAST LINES OF YOUR CODE SHOULD EITHER
 	## RETURN THE VALUE "anti-prime" or "not anti-prime"
